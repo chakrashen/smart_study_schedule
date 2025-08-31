@@ -1,1 +1,1 @@
-# smart_study_schedule
+# smart_study_scheduler
